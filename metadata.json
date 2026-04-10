@@ -1,0 +1,5 @@
+{
+  "name": "Rk Tournament",
+  "description": "A high-end Free Fire tournament platform with match management, wallet system, and admin dashboard.",
+  "requestFramePermissions": ["camera", "microphone"]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Rk Tournament",
+  "short_name": "Rk Tournament",
+  "description": "The Ultimate Free Fire Tournament Platform. Join matches, win prizes, and climb the leaderboard.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050505",
+  "theme_color": "#f97316",
+  "categories": ["games", "sports"],
+  "icons": [
+    {
+      "src": "https://image2url.com/r2/default/images/1775320935204-a92f1b2a-bae3-48a4-96e3-efe7eae485fa.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://image2url.com/r2/default/images/1775320935204-a92f1b2a-bae3-48a4-96e3-efe7eae485fa.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://image2url.com/r2/default/images/1775320935204-a92f1b2a-bae3-48a4-96e3-efe7eae485fa.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://image2url.com/r2/default/images/1775320935204-a92f1b2a-bae3-48a4-96e3-efe7eae485fa.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://picsum.photos/seed/rk-screenshot-1/1080/1920",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Home Screen"
+    },
+    {
+      "src": "https://picsum.photos/seed/rk-screenshot-2/1920/1080",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Match Details"
+    }
+  ]
+}
